@@ -15,11 +15,13 @@ packproject = django+xadmin
 File
 config.lua
 init.lua
-'''
+```
 #### 包中必须包含一个 excludeLIST.txt
-    ;打包排除列表下列的文件均不会被打包
-    excludeLIST.txt
-    packLIST.txt
+```
+;打包排除列表下列的文件均不会被打包
+excludeLIST.txt
+packLIST.txt
+```
 * 需要注意的是svn打包 必须安装 svn client
 
 ## Requirements
