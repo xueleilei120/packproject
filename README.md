@@ -1,4 +1,4 @@
-packproject
+packproject = django+xadmin
 ===========================
 基于 django+xadmin 的游戏脚本打包系统 支持本地和拉取svn 打包 <br>
 大家 可以通过添加 svn路径和本地路径 然后就可以在线打包了
