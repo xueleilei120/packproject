@@ -32,3 +32,4 @@ packproject
 
 ## Screenshots
   ** packproject/static/images/jietu.PNG **
+  ![](https://github.com/xueleilei120/packproject/static/images/jietu.PNG)  
