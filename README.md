@@ -9,13 +9,12 @@ packproject = django+xadmin
 ****
 ## 打包说明
 #### 包中必须包含一个 packLIST.txt
-    * 包中必须包含一个 packLIST.txt
     ;本文件夹中存放需要打包的目录和文件名
-    ;文件夹打包只需要填写文件夹目录，具体文件则需要填写文件名加后缀 如
+    ;文件夹打包只需要填写文件夹目录，具体文件则需要填写文件名加后缀
     File
     config.lua
     init.lua
-    * 包中必须包含一个 excludeLIST.txt
+#### 包中必须包含一个 excludeLIST.txt
     ;打包排除列表下列的文件均不会被打包
     excludeLIST.txt
     packLIST.txt
