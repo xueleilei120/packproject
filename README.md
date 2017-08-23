@@ -8,6 +8,7 @@ packproject = django+xadmin
 ### [我的博客](http://liuyc2.pythonanywhere.com) 
 ****
 ## 打包说明
+#### 包中必须包含一个 packLIST.txt
     * 包中必须包含一个 packLIST.txt
     ;本文件夹中存放需要打包的目录和文件名
     ;文件夹打包只需要填写文件夹目录，具体文件则需要填写文件名加后缀 如
