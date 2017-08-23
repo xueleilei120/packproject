@@ -31,4 +31,5 @@ packproject
     https://github.com/xueleilei120/packproject.git
 
 ## Screenshots
+![](https://github.com/xueleilei120/packproject/static/images/jietu.JPG)
 ![](https://github.com/xueleilei120/packproject/static/images/jietu.png)
